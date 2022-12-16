@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sleigh Lowpoly
+* source:	https://sketchfab.com/3d-models/sleigh-lowpoly-93c8c492c4a14c07aa6815cb018d3925
+* author:	darkfrei (https://sketchfab.com/darkfrei)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sleigh Lowpoly" (https://sketchfab.com/3d-models/sleigh-lowpoly-93c8c492c4a14c07aa6815cb018d3925) by darkfrei (https://sketchfab.com/darkfrei) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

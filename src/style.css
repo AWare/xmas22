@@ -1,0 +1,46 @@
+#xmas{
+position:absolute;
+top: 3rem;
+left: 3rem;
+z-index: 100;
+color: white;
+font-size: 5rem;
+font-family: 'Courier New', Courier, monospace;
+}
+#xmas button{
+  color: white;
+  background: green;
+  font-size: 5rem;
+  font-family: 'Courier New', Courier, monospace;
+  }
+html {
+  background-color: black;
+}
+#start{
+  position: absolute;
+  top:30%;
+  left:20%;
+  font-size: 10rem;
+  transform: rotate3d(1, 1, -1, 15deg);
+}
+button:hover{
+  transform: rotate3d(1, 1, 1, -15deg);
+
+}
+#credits{
+  position: absolute;
+  bottom:0;
+ right:0;
+  transform: translate(-10%, -10%);
+  font-size: 2rem;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: right;
+}
+#credits a{
+  color: white;
+  text-decoration: none;
+}
+.hidden {
+  display: none;
+}
